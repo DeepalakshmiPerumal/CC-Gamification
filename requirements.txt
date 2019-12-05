@@ -1,2 +1,2 @@
-Flask==1.0.0
+Flask==1.1.1
 pymysql==0.9.3
